@@ -1,0 +1,31 @@
+.contact-content {
+    height: 80vh;
+    margin-top: 32px;
+    position: relative;
+    overflow: hidden;
+}
+
+.contact-content::after {
+    content: "";
+    background-image: url("../img/justice.jpg");
+    position: absolute;
+    top: 0;
+    width: 100%;
+    height: inherit;
+    opacity: 0.1;
+    border-radius: 15px;
+    z-index: -1;
+}
+
+.form-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.form-box input,
+textarea {
+    width: 40vw;
+    padding: 10px 6px;
+    margin: 7px;
+}
