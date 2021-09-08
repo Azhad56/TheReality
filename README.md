@@ -1,12 +1,12 @@
 # TheReality
 By Azhad Ghufran with the help and guidence of devashish sir 
 ## Technologies and tools used
-HTML
-CSS
-GOOGLE FONTS
-MEDIA QUERY 
-NETLIFY
-Github
+* HTML
+* CSS
+* GOOGLE FONTS
+* MEDIA QUERY 
+* NETLIFY
+* Github
 ## Description 
 TheReality is like medium type blog .In the medium you can write any article of any topic but 
 TheReality.com contains the article of specific topic like in our website we try to exposes the 
