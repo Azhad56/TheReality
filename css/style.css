@@ -5,7 +5,10 @@
 
 .navigation {
     margin-top: 25px;
-    /* height: 74px;  */
+    background: #ff5f6d;
+    background: -webkit-linear-gradient(to right, #ff5f6d, #ffc371);
+    background: linear-gradient(to right, #ff5f6d, #ffc371);
+    height: 100px;
     display: flex;
     justify-content: space-between;
     align-items: center;
