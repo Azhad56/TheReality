@@ -3,6 +3,7 @@ By Azhad Ghufran with the help and guidence of devashish sir
 ## Technologies and tools used
 * HTML
 * CSS
+* JS
 * GOOGLE FONTS
 * MEDIA QUERY 
 * NETLIFY
@@ -21,7 +22,7 @@ All img file is under img folder
 there is an utility.css which is used for globally 
 ## Features and Contents
 * Contains Section of Home Page (Home page is routing to index.html )
-* Contains Section of About ( Currently Not working) 
+* Contains Section of About ( added some js when clicking on about page it will hide featured articles section and it will change heading and paragraph content) 
 * Contains Section of Blogpost.html that is article section
 * Contains Search Bar Features which By default show some predifined search website
 * Contains feature of Featured Articles that will show some top articles 
